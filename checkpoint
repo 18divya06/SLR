@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/ayushi/Downloads/sign-language-recognition-using-convolutional-neural-networks-master/handsign.model"
+all_model_checkpoint_paths: "/home/ayushi/Downloads/sign-language-recognition-using-convolutional-neural-networks-master/handsign.model"
